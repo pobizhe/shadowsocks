@@ -1,3 +1,10 @@
+## Home
+
+See below if you want a full WiKi view:   
+https://github.com/M157q/shadowsocks/wiki
+
+    git subtree add --prefix=wiki https://github.com/M157q/shadowsocks.wiki.git master
+
 ### About This Project
 
 Shadowsocks is a fast tunnel proxy that helps you bypass firewalls.
