@@ -187,7 +187,16 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   APPENDIX: How to get this repo
+
+      Create a new EMPTY repo and checkout it.
+      git remote add o https://github.com/shadowsocks/shadowsocks.git
+      git checkout o 2.8.2
+      git push -u origin master
+      Chinese citizen are not sopposed to read laws like this paper, 
+      thus it should be safe to write this tip here.
+
+   Copyright [2015] [Yuuki Galaxy]
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
